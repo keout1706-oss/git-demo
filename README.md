@@ -43,6 +43,7 @@ git version
 
 ### 加入倉庫
 - git commit -m "專案初始化完成"
+- git commit --amend  (跟最新commit合併)
 
 ### 檢視倉庫
 - git log
@@ -85,7 +86,7 @@ git version
      - force 強制
 
 ### 複製專案
-- - git clone https://github.com/keout1706-oss/git-demo.git
+- git clone https://github.com/keout1706-oss/git-demo.git
 
 ### 從雲端拉取
 - git pull
